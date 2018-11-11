@@ -1,8 +1,9 @@
 # Praktiku05
 
 
+# Latihan1 : "Mencari nilai terbesar dari banyak bilangan dengan DO-WHILE"
+
 ```
-Latihan1 : "Mencari nilai terbesar dari banyak bilangan dengan DO-WHILE"
 Algoritma :
 1. Deklarasi X dengan type data integer sebagai variable input
 	int x;
@@ -59,8 +60,9 @@ Berikut hasilnya :
 
 
 
+# Latihan 2 : "Contoh Program Menggunakan Operator Logika OR ( || )"
+
 ```
-Latihan 2 : "Contoh Program Menggunakan Operator Logika OR ( || )"
 Algoritma :
 1. Deklarasikan variable A, B, C dengan type data integer
 	int A, B, C;
